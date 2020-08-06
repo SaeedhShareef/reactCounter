@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactCounter/static/css/main.86de03ce.chunk.css",
+    "main.js": "/reactCounter/static/js/main.87c05957.chunk.js",
+    "main.js.map": "/reactCounter/static/js/main.87c05957.chunk.js.map",
+    "runtime-main.js": "/reactCounter/static/js/runtime-main.c2b4ca95.js",
+    "runtime-main.js.map": "/reactCounter/static/js/runtime-main.c2b4ca95.js.map",
+    "static/js/2.f1a265f1.chunk.js": "/reactCounter/static/js/2.f1a265f1.chunk.js",
+    "static/js/2.f1a265f1.chunk.js.map": "/reactCounter/static/js/2.f1a265f1.chunk.js.map",
+    "index.html": "/reactCounter/index.html",
+    "precache-manifest.c8acf3600b16b372056ec191578af18e.js": "/reactCounter/precache-manifest.c8acf3600b16b372056ec191578af18e.js",
+    "service-worker.js": "/reactCounter/service-worker.js",
+    "static/css/main.86de03ce.chunk.css.map": "/reactCounter/static/css/main.86de03ce.chunk.css.map",
+    "static/js/2.f1a265f1.chunk.js.LICENSE.txt": "/reactCounter/static/js/2.f1a265f1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactCounter/static/media/carnival.aa5b4cf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b4ca95.js",
+    "static/js/2.f1a265f1.chunk.js",
+    "static/css/main.86de03ce.chunk.css",
+    "static/js/main.87c05957.chunk.js"
+  ]
+}
